@@ -1,0 +1,4 @@
+name: joseph vig
+year: junior
+major: computer science
+fun fact: i play tennis
